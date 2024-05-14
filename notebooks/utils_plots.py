@@ -30,7 +30,7 @@ mpl.rcParams.update(
         "axes.formatter.use_mathtext": True,
         "axes.unicode_minus": False,
         "text.color": gris,
-        "font.size": 12,
+        "font.size": 10,
         "xtick.color": gris,
         "ytick.color": gris,
         "axes.labelcolor": gris,
