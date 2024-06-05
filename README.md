@@ -26,5 +26,5 @@ Finally, go to the `PINNs-course/` folder and run the following command to insta
 To verify the packages installed in your `pinns-course-env` conda environment, you can use the following command:
 
  ```
- conda list -n pinns_course_env
+ conda list -n pinns-course-env
  ```

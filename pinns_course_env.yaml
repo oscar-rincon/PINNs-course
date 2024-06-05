@@ -1,4 +1,4 @@
-name: comparative-nn-wave-env
+name: pinns-course-env
 channels:
   - conda-forge
   - pypi
@@ -9,3 +9,4 @@ dependencies:
   - jupyter
   - ipympl
   - pytorch
+  - scipy
